@@ -1,7 +1,7 @@
 # Igor Bonzanino 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Igort%20Bonzanino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-bonzanino-226610b4/)](https://www.linkedin.com/in/igor-bonzanino-226610b4/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Igor%20Bonzanino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-bonzanino-226610b4/)](https://www.linkedin.com/in/igor-bonzanino-226610b4/) 
 [![Gmail Badge](https://img.shields.io/badge/-bonzaninoigor@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:bonzaninoigor@gmail.com)](mailto:bonzaninoigor@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
